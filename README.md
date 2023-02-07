@@ -4,17 +4,6 @@
   
 <br />
 
-## [Introduction](#introduction)
-
-## [Data Exploration](#data-exploration)
-
-## [Data Visualization](#data-visualization)
-
-## [Data Analysis](#data-analysis)
-
-## [Conclusion](#conclusion)
-
-<br />
 
 <!-- toc -->
 
