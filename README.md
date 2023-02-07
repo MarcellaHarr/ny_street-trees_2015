@@ -61,14 +61,10 @@ I successfully stored and secured the street tree data from TreeCount! which is 
   <img src="src/img/Tree_and_Stump_Overview_Plot.png" alt="Image 1" width="950" height="450"/>
 </div>
 
-<div style="display:flex">
-  <div class="image-2">
-    <img src="src/img/Alive_Tree_Diameter_By_Health-Status_Conditions.png" alt="Image 2"/>
-    </div>
-  <div class="image-3">
-    <img src="src/img/Stump_Diameter_By_Health-Status_Conditions.png" alt="Image 3"/>
-  </div>
-</div>
+
+<img class="image-2" src="src/img/Alive_Tree_Diameter_By_Health-Status_Conditions.png" alt="Image 2"/>
+    
+<img class="image-3" src="src/img/Stump_Diameter_By_Health-Status_Conditions.png" alt="Image 3"/>
 
 <br />
 
@@ -123,14 +119,13 @@ Maecenas non quam at augue pretium dapibus. Praesent pellentesque, augue et comm
     padding: 0;
   }
   img.image-2{
-    flex: 1;
-    width: 49%;
+    float: left;
+    width: 50%;
     margin: 0;
     padding: 0;
     display: inline-block;
   }
   img.image-3{
-    flex: 1;
     width: 50%;
     margin: 0;
     padding: 0;
