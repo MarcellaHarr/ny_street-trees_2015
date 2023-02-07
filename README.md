@@ -119,13 +119,14 @@ Maecenas non quam at augue pretium dapibus. Praesent pellentesque, augue et comm
     padding: 0;
   }
   img.image-2{
-    float: left;
+    align: left;
     width: 50%;
     margin: 0;
     padding: 0;
     display: inline-block;
   }
   img.image-3{
+    align: right;
     width: 50%;
     margin: 0;
     padding: 0;
