@@ -126,7 +126,7 @@ Maecenas non quam at augue pretium dapibus. Praesent pellentesque, augue et comm
     display: inline-block;
   }
   img.image-3{
-    align: right;
+    float: right;
     width: 50%;
     margin: 0;
     padding: 0;
