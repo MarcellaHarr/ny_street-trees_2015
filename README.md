@@ -111,50 +111,53 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed libero vel n
 Maecenas non quam at augue pretium dapibus. Praesent pellentesque, augue et commodo ultricies, mauris ante volutpat metus, sed tristique sapien ipsum eget odio. Mauris a condimentum orci, vel consequat odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turp
 
 <style>
-  .image-1{
+  img{
+    width: 100%;
+    height: auto;
+    display: inline-block;
+  }
+  img.image-1{
     float: center;
     width: 100%;
     margin: 0;
     padding: 0;
   }
-  .image-2{
+  img.image-2{
     flex: 1;
-    width: 450;
+    width: 49%;
     margin: 0;
     padding: 0;
+    display: inline-block;
   }
-  .image-3{
+  img.image-3{
     flex: 1;
-    width: 450;
+    width: 50%;
     margin: 0;
     padding: 0;
+    display: inline-block;
   }
-  .image-4{
+  img.image-4{
     float: center;
     width: 100%;
     margin: 0;
     padding: 0;
   }
-  .image-5{
+  img.image-5{
     float: center;
     width: 100%;
     margin: 0;
     padding: 0;
   }
-  .image-6{
+  img.image-6{
     float: left;
     width: 50%;
     margin: 0;
     padding: 0;
   }
-  .image-7{
+  img.image-7{
     float: right;
     width: 50%;
     margin: 0;
     padding: 0;
-  }
-  img{
-    width: 100%;
-    height: auto;
   }
 </style>
