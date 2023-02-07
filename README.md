@@ -118,18 +118,16 @@ Maecenas non quam at augue pretium dapibus. Praesent pellentesque, augue et comm
     padding: 0;
   }
   .image-2{
-    float: left;
+    flex: 1;
     width: 450;
     margin: 0;
     padding: 0;
-    display: inline;
   }
   .image-3{
-    float: right;
+    flex: 1;
     width: 450;
     margin: 0;
     padding: 0;
-    display: inline;
   }
   .image-4{
     float: center;
