@@ -133,13 +133,11 @@ Maecenas non quam at augue pretium dapibus. Praesent pellentesque, augue et comm
     padding: 0;
   }
   img.image-6{
-    float: left;
     width: 50%;
     margin: 0;
     padding: 0;
   }
   img.image-7{
-    float: right;
     width: 50%;
     margin: 0;
     padding: 0;
