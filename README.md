@@ -100,9 +100,8 @@ Maecenas non quam at augue pretium dapibus. Praesent pellentesque, augue et comm
 
 <style>
   img{
-    width: 100%;
+    width: auto;
     height: auto;
-    display: inline-block;
   }
   img.image-1{
     float: center;
