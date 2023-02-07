@@ -63,10 +63,10 @@ I successfully stored and secured the street tree data from TreeCount! which is 
 
 
 <div class="image-2">
-  <img src="src/img/Alive_Tree_Diameter_By_Health-Status_Conditions.png" alt="Image 2" width="475" height="225">
+  <img src="src/img/Alive_Tree_Diameter_By_Health-Status_Conditions.png" alt="Image 2" width="450" height="225">
 </div>
 <div class="image-3">
-  <img src="src/img/Stump_Diameter_By_Health-Status_Conditions.png" alt="Image 3" width="475" height="225">
+  <img src="src/img/Stump_Diameter_By_Health-Status_Conditions.png" alt="Image 3" width="450" height="225">
 </div>
 
 <br />
