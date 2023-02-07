@@ -61,7 +61,7 @@ I successfully stored and secured the street tree data from TreeCount! which is 
   <img src="src/img/Tree_and_Stump_Overview_Plot.png" alt="Image 1" width="950" height="450"/>
 </div>
 
-<img class="image-2" src="src/img/Alive_Tree_Diameter_By_Health-Status_Conditions.png" alt="Image 2"/><img class="image-3" src="src/img/Stump_Diameter_By_Health-Status_Conditions.png" alt="Image 3"/>
+<img class="image-2" src="src/img/Alive_Tree_Diameter_By_Health-Status_Conditions.png" alt="Image 2" width="400"/><img class="image-3" src="src/img/Stump_Diameter_By_Health-Status_Conditions.png" alt="Image 3" width="400"/>
 
 <div class="image-4"><img src="src/img/Tree-Stump_Problems.png" width="950" height="450" alt="Image 4"/></div>
 
