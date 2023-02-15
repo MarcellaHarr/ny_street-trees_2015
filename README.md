@@ -64,22 +64,25 @@ I successfully stored and secured the street tree data from TreeCount! which is 
 
 # Data Analysis
 
-Ut et velit in velit finibus posuere. Donec vel velit velit. Curabitur vel vestibulum velit, a consectetur eros. Donec est leo, varius quis mi vel, cursus cursus neque. Vivamus in elit sagittis, luctus eros eget, pulvinar ipsum.
+The data analysis above provides several key insights into the condition and management of street trees in the area. First, the distribution of tree diameters is concentrated between 50-60 inches, but there are a significant number of outliers that may be due to human error or environmental impacts. This suggests that there may be some issues with data collection or other external factors affecting tree growth and development.
 
-```
-<code here>
-```
+Second, the mean diameter at breast height for street trees is 11.28 inches, with a median of 9 inches, indicating a relatively wide range of tree sizes. The large standard deviation of 20 further emphasizes the variability in tree size across the area. Additionally, the median tree diameter of 12 inches is much higher than the median stump diameter of 3 inches, indicating that the trees in the area are generally larger and older than their stumps.
+
+Third, the survey responses show that the majority of workers reported 0-2 problems with street trees, with more variance in responses reporting higher numbers of problems. This suggests that there may be some issues with the roots of the trees that are affecting their health and vitality.
+
+Fourth, while the majority of trees in the area are in good health and labeled as "Alive", there is a need for improvement in the management and care of trees in "Fair" and "Poor" condition. The data suggests that there may be some issues with the roots of these trees that need to be addressed to ensure their survival and long-term health.
+
+Finally, the diameters in the Not Applicable category are more tightly clustered than in the Stump category, indicating that there may be more consistency in this area of data collection. However, bins with maximum outliers suggest potential data errors or other issues that need to be addressed.
+
+Overall, this data analysis provides valuable insights into the condition of street trees in the area and highlights areas that may need additional attention and resources to ensure the health and vitality of these important urban assets.
+
+<br />
 
 # Conclusion
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed libero vel nisi lobortis rhoncus. Fusce at ullamcorper risus. 
+The comprehensive street tree census carried out by NYC Parks & Recreation and partner organizations in 2015 offers crucial insights into the state of street trees in the area.
 
-- Phasellus vel velit vel velit tempus rhoncus vel vel velit. Donec et est rhoncus, vulputate velit ut, porta neque. 
-- Donec vitae augue ut mi ultricies condimentum. 
-- Duis volutpat bibendum pretium. Integer sollicitudin elementum dui, ac sodales ex aliquet sed. 
-- Nulla gravida blandit augue, sed scelerisque nibh congue ut. 
-
-Maecenas non quam at augue pretium dapibus. Praesent pellentesque, augue et commodo ultricies, mauris ante volutpat metus, sed tristique sapien ipsum eget odio. Mauris a condimentum orci, vel consequat odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turp
+Although the majority of street trees are healthy, the findings emphasize the need for improving and maintaining trees in "Fair" and "Poor" condition. The data analysis also highlights potential root issues and variations in tree diameter measurements compared to stump diameter measurements. Further research can be conducted to investigate the underlying causes of these discrepancies, and to establish effective strategies for managing and caring for street trees in the area.
 
 <style>
   img{
