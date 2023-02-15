@@ -78,8 +78,5 @@ Overall, this data analysis provides valuable insights into the condition of str
 # Conclusion
 The comprehensive street tree census carried out by NYC Parks & Recreation and partner organizations in 2015 offers crucial insights into the state of street trees in the area. Although the majority of street trees are healthy, the findings emphasize the need for improving and maintaining trees in "Fair" and "Poor" condition. The data analysis also highlights potential root issues and variations in tree diameter measurements compared to stump diameter measurements. Further research can be conducted to investigate the underlying causes of these discrepancies, and to establish effective strategies for managing and caring for street trees in the area.
 
-<br />
-<br />
-
-<!-- -->
-<div style="visibility: hidden;"><style> img{ width: auto; height: auto; } img.image-1{ float: center; width: 100%; margin: 0; padding: 0; } img.image-2{ width: 50%; margin: 0; padding: 0; display: inline-block; } img.image-3{ width: 50%; margin: 0; padding: 0; display: inline-block; } img.image-4{ float: center; width: 100%; margin: 0; padding: 0; } img.image-5{ float: center; width: 100%; margin: 0; padding: 0; } img.image-6{ width: 50%; margin: 0; padding: 0; } img.image-7{ width: 50%; margin: 0; padding: 0; } </style></div>
+<!-- style -->
+<div style="visibility: hidden;"><style hidden> img{ width: auto; height: auto} img.image-1{ float: center; width: 100%; margin: 0; padding: 0} img.image-2{ width: 50%; margin: 0; padding: 0; display: inline-block} img.image-3{ width: 50%; margin: 0; padding: 0; display: inline-block} img.image-4{ float: center; width: 100%; margin: 0; padding: 0} img.image-5{ float: center; width: 100%; margin: 0; padding: 0} img.image-6{ width: 50%; margin: 0; padding: 0} img.image-7{ width: 50%; margin: 0; padding: 0} </style></div>
