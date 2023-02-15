@@ -84,6 +84,9 @@ The comprehensive street tree census carried out by NYC Parks & Recreation and p
 
 Although the majority of street trees are healthy, the findings emphasize the need for improving and maintaining trees in "Fair" and "Poor" condition. The data analysis also highlights potential root issues and variations in tree diameter measurements compared to stump diameter measurements. Further research can be conducted to investigate the underlying causes of these discrepancies, and to establish effective strategies for managing and caring for street trees in the area.
 
+<br/>
+
+
 <style>
   img{
     width: auto;
