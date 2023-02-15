@@ -82,4 +82,4 @@ The comprehensive street tree census carried out by NYC Parks & Recreation and p
 <br />
 
 <!-- -->
-<style> img{ width: auto; height: auto; } img.image-1{ float: center; width: 100%; margin: 0; padding: 0; } img.image-2{ width: 50%; margin: 0; padding: 0; display: inline-block; } img.image-3{ width: 50%; margin: 0; padding: 0; display: inline-block; } img.image-4{ float: center; width: 100%; margin: 0; padding: 0; } img.image-5{ float: center; width: 100%; margin: 0; padding: 0; } img.image-6{ width: 50%; margin: 0; padding: 0; } img.image-7{ width: 50%; margin: 0; padding: 0; } </style>
+<div style="visibility: hidden;"><style> img{ width: auto; height: auto; } img.image-1{ float: center; width: 100%; margin: 0; padding: 0; } img.image-2{ width: 50%; margin: 0; padding: 0; display: inline-block; } img.image-3{ width: 50%; margin: 0; padding: 0; display: inline-block; } img.image-4{ float: center; width: 100%; margin: 0; padding: 0; } img.image-5{ float: center; width: 100%; margin: 0; padding: 0; } img.image-6{ width: 50%; margin: 0; padding: 0; } img.image-7{ width: 50%; margin: 0; padding: 0; } </style></div>
