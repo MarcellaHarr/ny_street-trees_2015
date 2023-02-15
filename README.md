@@ -1,52 +1,3 @@
-<div>
-  <style>
-      img{
-        width: auto;
-        height: auto;
-      }
-      img.image-1{
-        float: center;
-        width: 100%;
-        margin: 0;
-        padding: 0;
-      }
-      img.image-2{
-        width: 50%;
-        margin: 0;
-        padding: 0;
-        display: inline-block;
-      }
-      img.image-3{
-        width: 50%;
-        margin: 0;
-        padding: 0;
-        display: inline-block;
-      }
-      img.image-4{
-        float: center;
-        width: 100%;
-        margin: 0;
-        padding: 0;
-      }
-      img.image-5{
-        float: center;
-        width: 100%;
-        margin: 0;
-        padding: 0;
-      }
-      img.image-6{
-        width: 50%;
-        margin: 0;
-        padding: 0;
-      }
-      img.image-7{
-        width: 50%;
-        margin: 0;
-        padding: 0;
-      }
-  </style>
-</div>
-
 # New York 2015 Street Trees Census
 
 ![Photo by <a href="https://unsplash.com/photos/ObhUk9MP5-g?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink">Karen Uppal</a> on <a href="https://unsplash.com/@karenuppal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>](src/img/karen-uppal-ObhUk9MP5-g-unsplash.jpg)
@@ -95,16 +46,14 @@ I successfully stored and secured the street tree data from TreeCount! which is 
 
 # Data Visualization
 
-<div class="image-1">
-  <img src="src/img/Tree_and_Stump_Overview_Plot.png" alt="Image 1" width="950" height="450"/>
-</div>
+<img src="src/img/Tree_and_Stump_Overview_Plot.png" alt="Image 1" width="950" height="450"/>
 
 <img class="image-2" src="src/img/Alive_Tree_Diameter_By_Health-Status_Conditions.png" alt="Image 2" width="415"/><img class="image-3" src="src/img/Stump_Diameter_By_Health-Status_Conditions.png" alt="Image 3" width="415"/>
 
-<div class="image-4"><img src="src/img/Tree-Stump_Problems.png" width="950" height="450" alt="Image 4"/></div>
+<img src="src/img/Tree-Stump_Problems.png" width="950" height="450" alt="Image 4"/>
 
 
-<div class="image-5"><img src="src/img/Species_Scientific_Names_By_Conditions.png" width="950" height="450" alt="Image 5"/></div>
+<img src="src/img/Species_Scientific_Names_By_Conditions.png" width="950" height="450" alt="Image 5"/>
 
 <img class="image-6" src="src/img/Tree_Diameter_Distribution_without_Binwidth_and_Filtered.png" alt="Image 6" width="415"/><img class="image-7" src="src/img/Stump_Diameter_Distribution_without_Binwidth_and_Filtered.png" alt="Image 7" width="415"/>
 
@@ -128,3 +77,9 @@ Overall, this data analysis provides valuable insights into the condition of str
 
 # Conclusion
 The comprehensive street tree census carried out by NYC Parks & Recreation and partner organizations in 2015 offers crucial insights into the state of street trees in the area. Although the majority of street trees are healthy, the findings emphasize the need for improving and maintaining trees in "Fair" and "Poor" condition. The data analysis also highlights potential root issues and variations in tree diameter measurements compared to stump diameter measurements. Further research can be conducted to investigate the underlying causes of these discrepancies, and to establish effective strategies for managing and caring for street trees in the area.
+
+<br />
+<br />
+
+<!-- -->
+<style> img{ width: auto; height: auto; } img.image-1{ float: center; width: 100%; margin: 0; padding: 0; } img.image-2{ width: 50%; margin: 0; padding: 0; display: inline-block; } img.image-3{ width: 50%; margin: 0; padding: 0; display: inline-block; } img.image-4{ float: center; width: 100%; margin: 0; padding: 0; } img.image-5{ float: center; width: 100%; margin: 0; padding: 0; } img.image-6{ width: 50%; margin: 0; padding: 0; } img.image-7{ width: 50%; margin: 0; padding: 0; } </style>
