@@ -5,8 +5,6 @@
 <br />
 
 
-<!-- toc -->
-
 # Introduction
 
 I recently came across this project through a YouTuber, Mısra Turp, and was inspired to expound upon the project using my own skills. I am conducting an Exploratory Data Analysis (EDA) on a dataset collected by the NYC Parks & Recreation and partner organizations. The dataset consists of tree species, diameter, and perception of health of trees organized by staff and volunteers. My goal is to understand the distribution of tree species, diameter, and health perception across New York City. Through this EDA, I hope to gain insights that can be used to guide decision-making and improve the management of trees in the city. I would like to thank Mısra Turp for providing me with this project.
